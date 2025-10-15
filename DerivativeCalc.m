@@ -1,5 +1,6 @@
 clear
 clc
+%code as trial
 
 %Initial menu display
 disp('Math Machine: ')
