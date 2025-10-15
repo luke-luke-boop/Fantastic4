@@ -1,6 +1,5 @@
 clear
 clc
-%this is a trial for the commit
 
 %Initial menu display
 disp('Math Machine: ')
